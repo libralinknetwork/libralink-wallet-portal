@@ -1,0 +1,1 @@
+export { makeGetDynamicVariables } from "./makeGetDynamicVariables";

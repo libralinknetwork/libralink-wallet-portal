@@ -1,0 +1,112 @@
+{
+  "common": {
+    "fee": "Fee",
+    "receiving": "Receiving",
+    "status": "Status",
+    "date": "Date",
+    "amount": "Amount",
+    "tx_type": "Tx Type",
+    "hash": "Hash",
+    "actions": "Actions",
+    "balance": "Balance",
+    "bonus": "Bonus",
+    "earned": "Earned",
+    "referral": "Referral",
+    "wallet_address": "Wallet address",
+    "fee_will_be_withheld": "Fee will be withheld",
+    "deposited": "Deposited",
+    "withdrawn": "Withdrawn",
+    "paid": "Paid",
+    "level_revenue": "Level {{level}} Revenue",
+    "time_seconds": "{{seconds}}s"
+  },
+  "wallet": {
+    "title": "Account",
+    "statements": "Statements",
+    "activities": "Activities",
+    "hash_copied": "Hash copied",
+    "withdraw": {
+      "title": "Withdraw {{currency}}",
+      "warning": "Please be careful while providing the address. The action can’t be undone.",
+      "fee_info": "Fee is withheld in ETH, please be sure you have sufficient ETH balance"
+    },
+    "deposit": {
+      "title": "Deposit {{currency}}",
+      "warning": "Min deposit amount is 0.03 {{currency}}. Please be careful and always check your deposit details, mistake can lead to lost funds.",
+      "fee_info": "Fee is withheld in ETH, please be sure you have sufficient ETH balance"
+    },
+    "withdraw_confirm": {
+      "title": "Confirmation email sent",
+      "description": "Confirmation email sent to <1>{{email}}</1>.\nPlease follow the link in email to confirm the withdrawal.",
+      "info": "If you didn't receive the email resend it in <1>{{seconds}}</1> seconds"
+    },
+    "withdraw_failed": {
+      "title": "Withdrawal Failed",
+      "description": "Your withdrawal failed due to: <1>{{error}}</1>."
+    },
+    "withdraw_confirmed": {
+      "title": "Withdrawal Confirmed",
+      "description": "Withdrawal of {{value}} ETH to address <1>{{address}}</1> sent for processing."
+    }
+  }, 
+  "label": {
+    "destination_address": "Destination address",
+    "withdrawal_amount": "Withdrawal amount"
+  },
+  "placeholder": {
+    "date_from": "Date from",
+    "date_to": "Date to"
+  },
+  "button": {
+    "withdraw": "Withdraw",
+    "withdraw_all": "Withdraw all",
+    "deposit": "Deposit",
+    "got_it": "Got it, thanks",
+    "resend_email": "Resend email",
+    "back_to_my_wallet": "Back to My Wallet page"
+  },
+  "status": {
+    "open": "Open",
+    "done": "Done",
+    "pending": "Pending",
+    "confirm": "Confirm",
+    "processing": "Processing"
+  },
+  "tx_type": {
+    "deposit": "Deposit",
+    "payment": "Payment",
+    "refund": "Refund",
+    "bonus": "Bonus",
+    "balance_transfer": "Balance Transfer",
+    "revenue": "Revenue",
+    "withdrawal": "Withdrawal",
+    "level_revenue": "Level {{level}} Revenue",
+    "level_contrib": "Level {{level}} Contrib",
+    "system_issue_revenue": "System Revenue",
+    "head_issue_revenue": "Referral Revenue"
+  },
+  "pagination": {
+    "rows_per_page": "Rows per page:",
+    "results": "Results",
+    "of": "of",
+    "more_than": "more than"
+  },
+  "error": {
+    "insufficient_funds": "Not enough balance",
+    "withdraw_blocked": "Fraud prevention",
+    "user_email_not_shared": "User has opted out the email share at a time of login (through github)",
+    "withdraw_error": "General error",
+    "failure_request_not_found": "Request not found",
+    "failure_already_used": "Already used",
+    "failure_invalid_link": "Invalid link",
+    "failure_expired_link": "Expired link",
+    "failure_invalid_request": "Invalid request",
+    "confirmation_link_already_used": "Confirmation link already used"
+  },
+  "alert_code": {
+    "alert_gas_price_too_high": "Wallet activities are temporarily suspended - Ethereum Network fee is USD {{value1}}, which is higher than limit - USD {{value2}}"
+  },
+  "user_balance_note": {
+    "label_non_sufficient_eth_funds": "Non sufficient ETH balance"
+  }
+}

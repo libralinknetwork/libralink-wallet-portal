@@ -1,0 +1,45 @@
+{
+  "common": {
+    "revenue": "Revenue",
+    "level": "Level {{level}}"
+  },
+  "header": {
+    "jobs": "Jobs",
+    "university": "University",
+    "blog": "Blog",
+    "faq": "FAQ"
+  },
+  "sidebar": {
+    "my_wallet": "My Wallet",
+    "agents": "My Agents"
+  },
+  "landing": {
+    "title": "Implement your disrupting B2A software",
+    "description": "This project is the template to empower your team in building the Wallet app"
+  },
+  "login": {
+    "title": "Create an account",
+    "subtitle": "by signing in to your GitHub or BitBucket account"
+  },
+  "faq": {
+    "title": "How can we help you?",
+    "subtitle": "Have questions? We are here to help",
+    "question_1": {
+      "title": "What is Libralink Network",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    "question_2": {
+      "title": "What are benefits comparing to other Layer 2 networks?",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+  },
+  "button": {
+    "login": "Login",
+    "logout": "Logout",
+    "start_working": "Start working",
+    "sign_in_to_github": "Sign in to GitHub",
+    "sign_in_to_bitbucket": "Sign in to Bitbucket",
+    "cancel": "Cancel",
+    "continue": "Continue"
+  }
+}
