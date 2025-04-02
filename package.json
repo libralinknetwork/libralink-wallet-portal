@@ -6,7 +6,7 @@
   ],
   "scripts": {
     "start": "lerna run --parallel start",
-    "build": "lerna run build",
+    "build": "CI=false lerna run build",
     "clean": "lerna run --parallel clean"
   },
   "devDependencies": {
