@@ -1,0 +1,16 @@
+version: 2.1
+orbs:
+  node: circleci/node@5
+jobs:
+  build:
+    # Install node dependencies and run tests
+    executor: node/default
+    steps:
+      - checkout
+      - node/install-packages:
+          pkg-manager: npm
+      - run:
+          command: npm install typescript -g
+      - run:
+          command: npm run build
+          name: Build
