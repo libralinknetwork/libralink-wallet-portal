@@ -12,5 +12,7 @@ jobs:
       - run:
           command: npm install typescript -g
       - run:
+          name: Build      
           command: npm run build
-          name: Build
+          env:
+            CI: false          
