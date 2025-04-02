@@ -1,6 +1,6 @@
 # Libralink Portal
 
-[![CircleCI](https://dl.circleci.com/status-badge/img/circleci/3mRSbP89jqQQqkK78hQhCE/9HUt8bHFahBirYdcdJbTNv/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/circleci/3mRSbP89jqQQqkK78hQhCE/9HUt8bHFahBirYdcdJbTNv/tree/main)
+[![CircleCI](https://dl.circleci.com/status-badge/img/circleci/3mRSbP89jqQQqkK78hQhCE/6C4hfQst43FZZf4WsZ8yBW/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/circleci/3mRSbP89jqQQqkK78hQhCE/6C4hfQst43FZZf4WsZ8yBW/tree/main)
 
 ## Running in development
 ### Install dependencies
